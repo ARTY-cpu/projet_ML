@@ -7,6 +7,10 @@ __pycache__/
 archive.zip
 *.zip
 
+# Datasets (images trop volumineuses pour Git)
+Training/
+Testing/
+
 # C extensions
 *.so
 
