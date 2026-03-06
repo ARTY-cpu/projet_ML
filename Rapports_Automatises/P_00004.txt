@@ -1,0 +1,27 @@
+Rapport Automatise
+========================================
+RAPPORT D'AIDE A LA DECISION
+========================================
+Patient ID: P_00004 Date: 05/03/2026
+PREDICTION PRINCIPALE
+---------------------
+Classe: Tumeur pituitaire
+Confiance: 97.6%
+Niveau de certitude: ELEVE [OK]
+SCORES PAR CLASSE
+-----------------
+• Gliome: 0.2%
+• Meningiome: 0.9%
+• Tumeur pituitaire: 97.6%
+• Pas de tumeur: 1.3%
+RECOMMANDATIONS CLINIQUES
+--------------------------
+Diagnostic: Tumeur pituitaire detectee (haute confiance)
+Action: Referer en endocrinologie et neurochirurgie
+Priorite: [!] ELEVEE - Evaluation sous 24h
+Revision humaine: Optionnelle (validation finale)
+ELEMENTS D'ATTENTION
+---------------------
+• Trouble hormonal possible
+• Bilan endocrinien recommande
+========================================

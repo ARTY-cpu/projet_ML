@@ -1,0 +1,27 @@
+Rapport Automatise
+========================================
+RAPPORT D'AIDE A LA DECISION
+========================================
+Patient ID: P_00002 Date: 05/03/2026
+PREDICTION PRINCIPALE
+---------------------
+Classe: Pas de tumeur
+Confiance: 91.4%
+Niveau de certitude: ELEVE [OK]
+SCORES PAR CLASSE
+-----------------
+• Gliome: 1.4%
+• Meningiome: 6.9%
+• Tumeur pituitaire: 0.2%
+• Pas de tumeur: 91.4%
+RECOMMANDATIONS CLINIQUES
+--------------------------
+Diagnostic: Pas de tumeur detectee (haute confiance)
+Action: Validation radiologique avant cloture
+Priorite: [~] MODEREE - Validation sous 48h
+Revision humaine: Recommandee
+ELEMENTS D'ATTENTION
+---------------------
+• Verifier qualite des images
+• Risque faible de faux negatif
+========================================

@@ -1,0 +1,27 @@
+Rapport Automatise
+========================================
+RAPPORT D'AIDE A LA DECISION
+========================================
+Patient ID: P_00020 Date: 05/03/2026
+PREDICTION PRINCIPALE
+---------------------
+Classe: Meningiome
+Confiance: 97.2%
+Niveau de certitude: ELEVE [OK]
+SCORES PAR CLASSE
+-----------------
+• Gliome: 2.8%
+• Meningiome: 97.2%
+• Tumeur pituitaire: 0.0%
+• Pas de tumeur: 0.0%
+RECOMMANDATIONS CLINIQUES
+--------------------------
+Diagnostic: Meningiome detecte (haute confiance)
+Action: Referer en neurochirurgie
+Priorite: [!] ELEVEE - Avis specialise sous 24h
+Revision humaine: Optionnelle (validation finale)
+ELEMENTS D'ATTENTION
+---------------------
+• Compression locale possible
+• Suivi neurologique recommande
+========================================

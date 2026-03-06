@@ -1,0 +1,27 @@
+Rapport Automatise
+========================================
+RAPPORT D'AIDE A LA DECISION
+========================================
+Patient ID: P_00010 Date: 05/03/2026
+PREDICTION PRINCIPALE
+---------------------
+Classe: Gliome
+Confiance: 96.3%
+Niveau de certitude: ELEVE [OK]
+SCORES PAR CLASSE
+-----------------
+• Gliome: 96.3%
+• Meningiome: 3.7%
+• Tumeur pituitaire: 0.0%
+• Pas de tumeur: 0.0%
+RECOMMANDATIONS CLINIQUES
+--------------------------
+Diagnostic: Gliome detecte (haute confiance)
+Action: Referer immediatement en oncologie
+Priorite: [!] URGENT - Prise en charge sous 12h
+Revision humaine: Optionnelle (validation finale)
+ELEMENTS D'ATTENTION
+---------------------
+• Tumeur maligne suspectee
+• IRM de controle recommandee
+========================================

@@ -1,0 +1,27 @@
+Rapport Automatise
+========================================
+RAPPORT D'AIDE A LA DECISION
+========================================
+Patient ID: P_00003 Date: 05/03/2026
+PREDICTION PRINCIPALE
+---------------------
+Classe: Meningiome
+Confiance: 60.0%
+Niveau de certitude: FAIBLE [!]
+SCORES PAR CLASSE
+-----------------
+• Gliome: 39.8%
+• Meningiome: 60.0%
+• Tumeur pituitaire: 0.0%
+• Pas de tumeur: 0.2%
+RECOMMANDATIONS CLINIQUES
+--------------------------
+Diagnostic: Meningiome suspecte
+Action: Validation par radiologue senior
+Priorite: [~] MODEREE - Reevaluation sous 48h
+Revision humaine: Obligatoire
+ELEMENTS D'ATTENTION
+---------------------
+• Verifier effet de masse
+• IRM de controle recommandee
+========================================

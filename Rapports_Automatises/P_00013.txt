@@ -1,0 +1,27 @@
+Rapport Automatise
+========================================
+RAPPORT D'AIDE A LA DECISION
+========================================
+Patient ID: P_00013 Date: 05/03/2026
+PREDICTION PRINCIPALE
+---------------------
+Classe: Pas de tumeur
+Confiance: 100.0%
+Niveau de certitude: ELEVE [OK]
+SCORES PAR CLASSE
+-----------------
+• Gliome: 0.0%
+• Meningiome: 0.0%
+• Tumeur pituitaire: 0.0%
+• Pas de tumeur: 100.0%
+RECOMMANDATIONS CLINIQUES
+--------------------------
+Diagnostic: Absence de tumeur probable (tres haute confiance)
+Action: Suivi clinique standard
+Priorite: [OK] FAIBLE - Controle de routine
+Revision humaine: Optionnelle
+ELEMENTS D'ATTENTION
+---------------------
+• Aucune lesion evidente
+• Surveillance clinique recommandee
+========================================
